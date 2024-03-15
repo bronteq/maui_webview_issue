@@ -4,5 +4,6 @@
              x:Class="MauiAppWebview.NewPage"
              Title="New Page">
 
+    <!--<Label Text="Page 2"/>-->
     <WebView Source="https://www.bing.com" />
 </ContentPage>
